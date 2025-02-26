@@ -1,0 +1,54 @@
+{
+    "fruits": [
+      {
+        "id": 1,
+        "name": "Apple",
+        "richIn": "Fiber, Vitamin C"
+      },
+      {
+        "id": 2,
+        "name": "Banana",
+        "richIn": "Potassium, Vitamin B6"
+      },
+      {
+        "id": 3,
+        "name": "Orange",
+        "richIn": "Vitamin C, Folate"
+      },
+      {
+        "id": 4,
+        "name": "Avocado",
+        "richIn": "Healthy Fats, Vitamin E"
+      },
+      {
+        "id": 5,
+        "name": "Blueberry",
+        "richIn": "Antioxidants, Vitamin K"
+      },
+      {
+        "id": 6,
+        "name": "Strawberry",
+        "richIn": "Vitamin C, Manganese"
+      },
+      {
+        "id": 7,
+        "name": "Kiwi",
+        "richIn": "Vitamin C, Vitamin K"
+      },
+      {
+        "id": 8,
+        "name": "Mango",
+        "richIn": "Vitamin A, Vitamin C"
+      },
+      {
+        "id": 9,
+        "name": "Pineapple",
+        "richIn": "Manganese, Vitamin C"
+      },
+      {
+        "id": 10,
+        "name": "Watermelon",
+        "richIn": "Lycopene, Vitamin A"
+      }
+    ]
+  }

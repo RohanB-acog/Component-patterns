@@ -1,0 +1,7 @@
+
+  {
+    "products": [
+      { "id": 1, "name": "Laptop", "price": 999, "description":"Useful for Working purposes" },
+      { "id": 2, "name": "IPhone", "price": 699, "description":"Mere waste of money"}
+    ]
+  }
