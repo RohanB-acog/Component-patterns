@@ -15,7 +15,7 @@ export abstract class BaseDataFetcher<T extends BaseEntity> {
     return `${this.baseUrl}${this.getEndpoint()}`;
   }
 
-  async fetchData(): Promise<T[]> {
+  async fetchData(component: string): Promise<T[]> {
     try {
       const response = await fetch(this.endpoint, {
         ...(typeof window === 'undefined' && {

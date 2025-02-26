@@ -4,8 +4,7 @@ import { ServerUserList } from './components/UserList/server';
 import { ServerProductList } from './components/ProductList/server';
 import { ServerFruitList } from './components/FruitList';
 import { ClientLists } from './components/ClientLists';
-import { MUIClientTables } from './components/MUIClientTables';
-import { MUIServerTables } from './components/MUIServerTables';
+
 
 export default function Exercise6Page() {
   return (
